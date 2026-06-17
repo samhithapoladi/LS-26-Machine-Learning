@@ -19,6 +19,7 @@ This repo is your single source of truth - study material, code examples, and as
 | Week | Topics |
 |------|--------|
 | [Week 1](./Week-1/README.md) | Python & NumPy Basics, Linear Algebra Review, Data Preprocessing |
+| [Week 2](./Week-2/README.md) | NLP Fundamentals, Embeddings & Word2Vec |
 
 ---
 
