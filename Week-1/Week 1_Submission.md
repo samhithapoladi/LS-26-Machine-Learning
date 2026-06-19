@@ -4,4 +4,4 @@ https://colab.research.google.com/drive/1vwO1uy5wXrQ0x0mZm6gDqeqXvYzF2Kzt?authus
 
 IMDb Sentiment AI:
 
-https://colab.research.google.com/drive/1S2q9cDxttZm_VWt7rjcU9N3TPxtC748y?usp=sharing
+https://colab.research.google.com/drive/1STG2UvLtBLyBp1u1m1_6OmzbxrAxVCwR?usp=sharing
